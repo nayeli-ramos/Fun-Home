@@ -1,0 +1,40 @@
+body {
+  background-color: HotPink;
+  font-family: "Helvetica", sans-serif;
+  color: mediumvioletred;
+}
+h1 {
+  color: mediumvioletred;
+  font-family: "Times New Roman", serif;
+}
+h2 {
+  font-family: "Times New Roman", serif;
+}
+h3 {
+  font-style: italic;
+}
+a {
+  color: Palevioletred;
+}
+nav ul {
+  background-color: deeppink;
+  border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: lightpink;
+}
+nav ul li a {
+  text-decoration: none;
+  color: lightpink;
+}
+img {
+  border-radius: 30px;
+}
